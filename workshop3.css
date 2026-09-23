@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* border:  1px solid red; */
+}
+
+body{
+    border: 1px solid rgba(141, 141, 141, 0.5);
+    width: 400px;
+    margin-left: 20px;
+    padding:  10px;
+}
+.form {
+    width: 320px;
+    margin: 20px;
+    background-color: white;
+}
+h2 {
+    padding: 0 0 20px;
+    
+}
+
+.input {
+    display: block;
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    
+    
+}
+
+.btn {
+    background-color:  rgb(14, 111, 246);
+    color: white;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    
+
+}
